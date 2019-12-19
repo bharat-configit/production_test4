@@ -24,6 +24,20 @@
       <typeSet uuid="_WSVsUtNiEee4Q7NokZIK1A" bitSet="393220"/>
     </domain>
   </variables>
+  <variables xsi:type="comp:DeclaredVariable" uuid="_aAdNwCI9Eeq-y-w849lYiw"
+      name="Variable" visibility="800">
+    <domain uuid="_aAdNwSI9Eeq-y-w849lYiw" name="local"
+        visibility="300">
+      <typeSet uuid="_aAdNwiI9Eeq-y-w849lYiw" bitSet="393231"/>
+    </domain>
+  </variables>
+  <variables xsi:type="comp:DeclaredVariable" uuid="_aSqYECI9Eeq-y-w849lYiw"
+      name="Variable1" visibility="800">
+    <domain uuid="_aSqYESI9Eeq-y-w849lYiw" name="local"
+        visibility="300">
+      <typeSet uuid="_aSqYEiI9Eeq-y-w849lYiw" bitSet="393231"/>
+    </domain>
+  </variables>
   <calculation uuid="_y665sNOLEeeFsdFJmAgGJA" name="Calculation"
       visibility="800">
     <text>my_number = number_prev + 1;&#xD;
